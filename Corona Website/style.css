@@ -1,0 +1,25 @@
+
+#navbar {
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+}
+ul {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+ul li {
+    list-style: none;
+}
+ul li a {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgb(95, 222, 231);
+    font-size: 0.875em;
+    text-decoration: none;
+    padding: 1em;
+    white-space: nowrap;
+    letter-spacing: 1px;
+}
